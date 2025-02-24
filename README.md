@@ -1,2 +1,2 @@
-# RCCGHOP
+# IMMANUEL MINISTRIES
 *Informational Church Website*
