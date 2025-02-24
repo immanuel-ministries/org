@@ -1,9 +1,3 @@
-/* AUTHOR: OLUMUYIWA KUKU
-
-	DATE: MAY 31, 2016
-
-	CUSTOM STYLESHEET */
-
 	body{
 		background-color: #eee;
 	}
@@ -19,18 +13,18 @@
 	}
 
 	.carousel-img-1{
-		background: url("../img/1.jpg") center center no-repeat;
+		background: url("../img/454742645_1862410164257857_4646311726636385374_n.jpg") center center no-repeat;
 		background-size: cover;
 	}
 
 	.carousel-img-2{
 		/*no "center center" no-repeat based on the particuar picture (4.jpg)"*/
-		background: url("../img/4.jpg") no-repeat;
+		background: url("../img/456719069_1871949786637228_1601525896577473505_n.jpg") no-repeat;
 		background-size: cover;
 	}
 
 	.carousel-img-3{
-		background: url("../img/2.jpg") center center no-repeat;
+		background: url("../img/462713641_8494879517269231_8979387060564532961_n.jpg") center center no-repeat;
 		background-size: cover;
 	}
 
